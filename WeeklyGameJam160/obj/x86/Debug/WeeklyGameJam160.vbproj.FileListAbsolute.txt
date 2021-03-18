@@ -1,0 +1,10 @@
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\bin\Debug\WeeklyGameJam160.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\bin\Debug\WeeklyGameJam160.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\bin\Debug\WeeklyGameJam160.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.Form1.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.Resources.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.vbproj.GenerateResource.Cache
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\obj\x86\Debug\WeeklyGameJam160.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\WeeklyGameJam160\WeeklyGameJam160\bin\Debug\WeeklyGameJam160.exe.config
